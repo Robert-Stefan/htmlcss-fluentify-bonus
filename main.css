@@ -167,3 +167,76 @@ h1, h2, h3, h4 {
 .infobanner .textbanner p {
     line-height: 25px;
 }
+/* PLAN */
+.plan {
+    margin-bottom: 80px;
+}
+.plan h2 {
+    color: black;
+    text-align: center;
+    margin: 100px auto;
+    font-size: 30px;
+}
+.container .imgs {
+    display: inline-block;
+}
+
+.container .imgs img{
+    width: 40%;
+    height: 40%;
+    background-size: contain;
+}
+
+.plan-left {
+    width: 30%;
+}
+.plan-center {
+    width: 30%;
+    margin-right: 4.5%;
+    margin-left: 4.5%;
+}
+
+.plan-right {
+   width: 30%;
+}
+
+.plan h3{
+    font-size: 20px;
+    margin: 20px 0;
+    color: black;
+}
+
+.plan p{
+    font-size: 20px;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+
+.plan a{
+    display: inline-block;
+    margin-top: 20px;
+}
+.plan .plan-left a{
+    color: #9ac7ef;
+}
+
+.plan .plan-center a{
+    color: #f4a510;
+}
+
+.plan .plan-right a{
+    color: #82b219;
+}
+
+.plan .plan-left p {
+    border-bottom: 10px solid #9ac7ef;
+}
+
+.plan .plan-center p {
+    border-bottom: 10px solid #f4a510;
+}
+
+.plan .plan-right p {
+    border-bottom: 10px solid #82b219;
+}
+
