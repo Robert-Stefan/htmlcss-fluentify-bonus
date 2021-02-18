@@ -133,3 +133,37 @@ h1, h2, h3, h4 {
 .social {
     margin-bottom: 70px;
 }
+
+/* INFO BANNER */
+.infobanner {
+    height: 400px;
+    background-color: #0d325a;
+
+}
+
+.infobanner .container {
+    position: relative;
+    height: 100%;
+}
+
+.infobanner .textbanner {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.infobanner .textbanner h2 {
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.infobanner .textbanner a {
+    margin-top: 30px;
+    padding: 10px 25px;
+}
+
+.infobanner .textbanner p {
+    line-height: 25px;
+}
