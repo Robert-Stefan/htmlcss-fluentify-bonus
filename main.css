@@ -239,4 +239,33 @@ h1, h2, h3, h4 {
 .plan .plan-right p {
     border-bottom: 10px solid #82b219;
 }
+/*FAQ*/
+.faq .container {
+    position: relative;
+    height: 100%;
+}
 
+.faq {
+    text-align: left;
+    height: 150px;
+    background-color: #0d325a;
+    padding-bottom: 40px;
+}
+
+.faq h2 {
+    color: white;
+    font-size: 30px;
+    line-height: 70px;
+    padding-top: 20px;
+}
+
+.faq p {
+    font-size: 20px;
+}
+
+.faqtext {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
