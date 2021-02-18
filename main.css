@@ -99,3 +99,37 @@ h1, h2, h3, h4 {
     color: #a8b6c2;
     font-size: 20px;
 }
+
+/* SOCIAL */
+.social .imgsocial {
+    margin-top: 100px;
+    max-height: 300px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.social .textsocial {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.social .textsocial h2 {
+    font-size: 30px;
+    color: black;
+    margin-bottom: 20px;
+}
+.social .textsocial h4 {
+    font-size:16px;
+}
+
+.social .textsocial p {
+    text-align: center;
+    font-size: 21px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.social {
+    margin-bottom: 70px;
+}
